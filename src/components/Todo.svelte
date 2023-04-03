@@ -35,7 +35,7 @@
     >
         <input
             type="text"
-            placeholder="Criar um todo"
+            placeholder="Create a todo"
             class="border-2 border-black w-full h-16 rounded-md px-2 mb-2 font-medium text-black"
             use:motion
             bind:value
