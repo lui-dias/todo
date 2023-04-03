@@ -8,7 +8,8 @@ A todo
 
 ## Cool features
 - Responsive
-- PWA (not offline yet) 
+- PWA (not offline yet)
+- Persistant data (using localStorage)
 
 ## Made with
 - [Astro](https://astro.build/)
