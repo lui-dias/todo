@@ -1,5 +1,5 @@
 
-![Site image](https://files.catbox.moe/oua0hq.png "Site image")
+![Site image](https://files.catbox.moe/j0jjxr.webp "Site image")
 
 ### [See it live](https://todo-lui-dias.vercel.app/)
 
