@@ -3,10 +3,11 @@
 
 ### [See it live](https://todo-lui-dias.vercel.app/)
 
-# What is this?
+## What is this?
 A todo
 
-# Made with
+## Made with
 - [Astro](https://astro.build/)
 - [Svelte](https://svelte.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
+- [Typescript](https://www.typescriptlang.org/)
