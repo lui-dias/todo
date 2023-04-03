@@ -6,6 +6,10 @@
 ## What is this?
 A todo
 
+## Cool features
+- Responsive
+- PWA (not offline yet) 
+
 ## Made with
 - [Astro](https://astro.build/)
 - [Svelte](https://svelte.dev/)
