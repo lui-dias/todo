@@ -1,6 +1,6 @@
 {
-    "name": "A todo",
-    "short_name": "todo",
+    "name": "Todo",
+    "short_name": "Todo",
     "description": "A pretty todo",
     "lang": "en",
     "start_url": "/",
