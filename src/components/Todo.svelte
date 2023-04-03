@@ -51,6 +51,8 @@
 
     <ul class="flex flex-col gap-y-2">
         {#each todo as item, index}
+            <!-- TODO: Add exit animation -->
+            <!-- ! AnimatePresence not working :/ -->
             <Motion
                 let:motion
                 initial={{ y: -20, opacity: 0 }}
